@@ -77,6 +77,8 @@ let g:python_highlight_space_errors = 0
 
 set background=dark
 colorscheme onedark
+#For mac os terminal
+#set notermguicolors
 set termguicolors
 let g:airline_theme='gruvbox'
 
