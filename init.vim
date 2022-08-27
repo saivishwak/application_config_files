@@ -1,3 +1,21 @@
+syntax on
+
+set belloff=all
+set noerrorbells
+set tabstop=4 softtabstop=4
+set shiftwidth=4
+set autoindent
+set smartindent
+set nu
+set smartcase
+set nobackup
+set nowritebackup
+set noswapfile
+set expandtab
+set incsearch
+set title
+set autoread
+set cursorline
 set relativenumber
 set clipboard=unnamedplus
 set mouse=a
