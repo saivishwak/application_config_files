@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.enable": true,
+    "rust-analyzer.inlayHints.enable": true,
+    "rust-analyzer.cachePriming.enable": true,
+    "rust-analyzer.hover.documentation.enable": true,
+    "rust-analyzer.inlayHints.typeHints.enable": true,
+    "rust-analyzer.inlayHints.parameterHints.enable": true
+}
